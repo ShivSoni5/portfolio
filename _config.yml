@@ -17,7 +17,7 @@ title: "Hello. I'm Shiv Soni."
 email: 'shivsoni.dev@gmail.com'
 description: "I'm a Web Developer from India creating useful things for the web."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://shivsoni5.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://shivsoni5.github.io/portfolio" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'ShivSoni05'
 github_username: 'shivsoni5'
 linkedin_username: 'shivsoni5'
